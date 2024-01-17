@@ -1,0 +1,15 @@
+C:\Users\CLienT\source\repos\Room management\Room management\bin\Debug\Room management.exe.config
+C:\Users\CLienT\source\repos\Room management\Room management\bin\Debug\Room management.exe
+C:\Users\CLienT\source\repos\Room management\Room management\bin\Debug\Room management.pdb
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room management.csproj.AssemblyReference.cache
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room_management.Properties.Resources.resources
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room management.csproj.GenerateResource.cache
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room management.csproj.CoreCompileInputs.cache
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room management.exe
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room management.pdb
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room_management.Form1.resources
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room_management.OCCUPANT_INFO.resources
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room_management.BILLS.resources
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room_management.EMPLOYEES_PROFILE.resources
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room_management.Form2.resources
+C:\Users\CLienT\source\repos\Room management\Room management\obj\Debug\Room_management.HOMEPAGE.resources
